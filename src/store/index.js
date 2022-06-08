@@ -3,8 +3,8 @@ import { defineStore } from "pinia";
 export const userStore = defineStore("user", {
 	state: () => {
 		return {
-			iphone: "18642315778",
-			name: "dixin",
+			iphone: "18642366666",
+			name: "ddd",
 
 			/** 虚拟一个复杂数据 **/
 			obj: {
